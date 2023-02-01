@@ -2,7 +2,7 @@ Project Detail
 Project Name: Learner’s Academy 
 Project Version: 1.0
 GitHub repository link: 
-https://github.com/pkdubey2021/Learners_Academy_Phase_2_project
+https://github.com/ChandanMallick302/Learners_Academy-FSD-Project-Phase-II
 
 Project Details: This project is for the design and developing a backend administrative portal for the Learner’s Academy using Java EE technologies
 Objective:  The Objective of this project is to apply servlet, jsp and JDBC concepts.
